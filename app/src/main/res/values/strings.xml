@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ui Design (English)</string>
+    <string name="click_to_move">Move</string>
+    <string name="hello">Hello</string>
+    <string name="change_image">Change Image</string>
+    <string name="add_image">Add Image</string>
+</resources>

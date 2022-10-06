@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ui Design (Indonesia)</string>
+    <string name="click_to_move">Pindah</string>
+    <string name="hello">Halo</string>
+    <string name="change_image">Ganti Gambar</string>
+    <string name="add_image">Tambah Gambar</string>
+</resources>
